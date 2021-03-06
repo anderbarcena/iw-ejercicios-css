@@ -1,0 +1,25 @@
+body{
+    background-color: #dcdbdb;
+    font-family: arial, sans-serif;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 100px;
+    padding: 5px;
+    border: solid 2px black;
+    width: 800px;
+}
+div{
+    background-color: white;
+    color: dimgrey;
+}
+h1{
+    border-bottom:solid 2px black;
+    color: #1bb9c2;
+    padding-bottom: 14px;
+    text-align: center;
+    border-bottom: 1.5em;
+}
+h2{
+    text-align: left;
+    border-style: dotted ;
+}
